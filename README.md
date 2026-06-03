@@ -1,2 +1,1 @@
-# PracticaGitEquipo
-Tarea
+Proyecto GitHub Avanzado
