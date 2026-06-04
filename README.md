@@ -1,2 +1,1 @@
-# PracticaGitEquipo
-Tarea
+Proyecto Control de Versiones
